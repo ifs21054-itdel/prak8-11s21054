@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">My Film Apps</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="subscription">Subscription</string>
+    <string name="library">Library</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="movie_short">About Movie</string>
+
+    <string name="malficent">Malficent</string>
+    <string name="narnia">The Chronicles of Narnia</string>
+    <string name="alladin">Alladin</string>
+    <string name="beauty">Beauty and The Beast</string>
+    <string name="lionking">Lion King</string>
+    <string name="cinderella">Cinderella</string>
+    <string name="junglekruise">Jungle Kruise</string>
+    <string name="togo">Togo</string>
+    <string name="hamilton">Hamilton</string>
+    <string name="cruella">Cruella</string>
+
+
+    <string name="avatar">Avatar</string>
+    <string name="titanic">Titanic</string>
+    <string name="starwars">Star Wars</string>
+    <string name="spiderman">Spider Man</string>
+    <string name="jurassic">Jurassic World</string>
+    <string name="avengers">Avengers</string>
+    <string name="fastfurious">Fast and Furious</string>
+    <string name="topgun">Top Gun</string>
+    <string name="barbie">Barbie</string>
+
+    <string name="harrypotter">Harry Potter</string>
+    <string name="conjuring">Conjuring</string>
+    <string name="insideout">Inside Out</string>
+    <string name="agaklaen">Agak Laen</string>
+    <string name="gangster">Shes Dating The Gangster</string>
+    <string name="johnwick">John Wick</string>
+    <string name="encanto">Encanto</string>
+
+    <string name="filmbarat">Film Barat</string>
+    <string name="filmindo">Film Indonesia</string>
+    <string name="filmchina">Film China</string>
+    <string name="filmthailand">Film Thailand</string>
+    <string name="filmkorea">Film Korea</string>
+    <string name="filmjepang">Film Jepang</string>
+
+
+    <string name="desc_avatar">Avatar adalah film fiksi ilmiah epik yang disutradarai oleh James Cameron. Film ini mengisahkan tentang pertempuran antara manusia dan penduduk asli Pandora, Navi, dalam upaya untuk menguasai sumber daya alam planet tersebut. Dikenal karena teknologi revolusionernya dalam bidang efek visual dan 3D, Avatar telah menjadi salah satu film terlaris sepanjang masa.</string>
+    <string name="desc_titanic">Titanic adalah film romantis epik yang disutradarai oleh James Cameron. Film ini mengisahkan tentang tragedi kapal Titanic yang tenggelam pada tahun 1912, sambil memperlihatkan kisah cinta yang berkembang antara Jack dan Rose, yang berasal dari latar belakang sosial yang berbeda. Titanic dikenal sebagai salah satu film terlaris sepanjang masa.</string>
+    <string name="desc_starwars">Star Wars adalah waralaba film epik fiksi ilmiah yang diciptakan oleh George Lucas. Mengambil tempat di "galaksi jauh, jauh di masa depan", cerita Star Wars mengikuti petualangan pahlawan, penjahat, dan makhluk luar angkasa dalam pertempuran antara Kekaisaran Galaksi dan Pemberontakan. Waralaba ini telah menjadi salah satu yang paling ikonik dalam sejarah perfilman.</string>
+    <string name="desc_spiderman">Spider-Man adalah film superhero yang didasarkan pada karakter Marvel Comics dengan nama yang sama. Film ini mengisahkan tentang Peter Parker, seorang remaja yang mendapatkan kekuatan super setelah digigit laba-laba yang terjangkit radiasi. Peter kemudian mengadopsi identitas Spider-Man untuk melindungi Kota New York dari ancaman penjahat.</string>
+    <string name="desc_jurassic">Jurassic World adalah film petualangan fiksi ilmiah yang merupakan instalmen keempat dalam waralaba Jurassic Park. Film ini mengisahkan tentang sebuah taman hiburan di mana dinosaurus yang telah direkayasa kembali hidup. Ketika dinosaurus-dinosaurus tersebut lolos dari kendali, para pengunjung terjebak dalam pertempuran untuk bertahan hidup.</string>
+    <string name="desc_avengers">Avengers adalah film superhero yang didasarkan pada tim superhero Marvel Comics dengan nama yang sama. Film ini menggabungkan karakter-karakter superhero seperti Iron Man, Captain America, Thor, Hulk, Black Widow, dan Hawkeye dalam pertempuran melawan ancaman yang mengancam dunia. Avengers telah menjadi salah satu franchise film paling sukses dalam sejarah perfilman.</string>
+    <string name="desc_fastfurious">Fast and Furious adalah waralaba film aksi yang menampilkan balapan mobil dan aksi penuh adrenalin. Cerita ini awalnya berkisar pada balapan jalanan ilegal, tetapi seiring berjalannya waktu, fokusnya bergeser ke misi-misi pencurian, aksi-aksi berbahaya, dan pertempuran melawan penjahat. Waralaba ini telah menjadi salah satu yang paling populer dalam genre aksi.</string>
+    <string name="desc_topgun">Top Gun adalah film aksi-drama yang disutradarai oleh Tony Scott. Film ini mengisahkan tentang kehidupan para pilot pesawat tempur angkatan laut Amerika Serikat, terutama fokus pada seorang pilot berbakat bernama Maverick. Dikemas dengan aksi udara yang mendebarkan dan intrik antarpersonal, Top Gun telah menjadi klasik dalam genre film aksi.</string>
+    <string name="desc_barbie">Barbie adalah film animasi yang didasarkan pada boneka populer dengan nama yang sama. Film-film Barbie biasanya mengikuti petualangan sang boneka dan teman-temannya dalam berbagai setting, termasuk fantasi, musikal, dan petualangan dunia nyata. Film-film Barbie sering kali disukai oleh penonton muda karena pesan positif dan visual yang menarik.</string>
+    <string name="textview">TextView</string>
+
+
+</resources>
